@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(141, 248, 195)
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(51, 9, 99);
+}
+li {
+    font-size: 18px; 
+}
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 8px;
+    text-align: center;
+}
+h2 {
+    padding-bottom: 8px;
+}
+
+
